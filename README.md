@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/0xshellming-mcp-summarizer-badge.png)](https://mseep.ai/app/0xshellming-mcp-summarizer)
+
 # MCP Content Summarizer Server
 
 A Model Context Protocol (MCP) server that provides intelligent summarization capabilities for various types of content using Google's Gemini 1.5 Pro model. This server can help you generate concise summaries while maintaining key information from different content formats.
